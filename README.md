@@ -4,8 +4,8 @@ This repository documents my learning journey in data manipulation and analysis 
 
 Technologies Used
 
-Python 
+- Python 
 
-NumPy
+- NumPy
 
-Pandas
+- Pandas
